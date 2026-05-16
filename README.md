@@ -106,13 +106,6 @@ This project uses the following SQL concepts:
 - Microsoft SQL Server 
 
 
-## How to Run
-
-1. Import the dataset into your SQL database.
-2. Open the `zepto_analysis.sql` file.
-3. Run queries sequentially.
-4. Analyze outputs and insights.
-
 
 
 ## Future Improvements
